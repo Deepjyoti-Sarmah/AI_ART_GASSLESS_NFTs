@@ -1,6 +1,6 @@
 # AI_ART_GASSLESS_NFTs
 
-[website](https://ainftgassless.vercel.app)
+website := [AI_ART_GASSLESS_NFTs](https://ainftgassless.vercel.app)
 
 
 
